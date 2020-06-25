@@ -10,5 +10,7 @@ At the end of the flick Talby drifts into the Phoenix Asteroids (a cluster he ha
 * loves meteorits
 * doesn't like to shave
 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQBWWrPiKi0zcf1M2nk0olEoE6t9of_ah7CMg&usqp=CAU"/>
+
 As dalby said:
 > But without the dark, we'd never see the stars
