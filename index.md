@@ -3,3 +3,9 @@
 My favourite chacter of the movie Dark Star is: Talby 
 He spends his time in the ship's observation dome, content to watch the universe go by. 
 At the end of the flick Talby drifts into the Phoenix Asteroids (a cluster he has long had a fascination with), destined to circumnavigate the universe for eternity.
+
+## Character traits of Dalby
+* Lazy
+* Surfer
+* loves meteorits
+* doesn't like to shave
