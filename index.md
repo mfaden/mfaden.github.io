@@ -9,3 +9,6 @@ At the end of the flick Talby drifts into the Phoenix Asteroids (a cluster he ha
 * Surfer
 * loves meteorits
 * doesn't like to shave
+
+As dalby said:
+> But without the dark, we'd never see the stars
